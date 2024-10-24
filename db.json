@@ -1,0 +1,227 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "dfgdfs",
+      "password": "dsfsd",
+      "avatarUrl": "https://joesch.moe/api/v1/random"
+    },
+    {
+      "id": "2",
+      "name": "User2",
+      "password": "123",
+      "avatarUrl": "https://joesch.moe/api/v1/random"
+    },
+    {
+      "id": "3",
+      "name": "User3",
+      "password": "123",
+      "avatarUrl": "https://joesch.moe/api/v1/random"
+    },
+    {
+      "name": "енгое",
+      "password": "нгоен",
+      "avatarUrl": "https://joesch.moe/api/v1/random",
+      "id": "c875"
+    },
+    {
+      "id": "5f8d",
+      "name": "dgrr",
+      "password": "fgr",
+      "avatarUrl": "https://joesch.moe/api/v1/random"
+    },
+    {
+      "id": "f00d",
+      "name": "rydu",
+      "password": "dyrt",
+      "avatarUrl": "https://joesch.moe/api/v1/random"
+    },
+    {
+      "id": "43ae",
+      "name": "admin",
+      "password": "admin",
+      "avatarUrl": ""
+    },
+    {
+      "id": "688e",
+      "name": "admin",
+      "password": "admin",
+      "avatarUrl": ""
+    },
+    {
+      "id": "bfcd",
+      "name": "qwe",
+      "password": "qwe",
+      "avatarUrl": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "user": "1",
+      "text": "comment1"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Product1",
+      "description": "description1",
+      "price": 100
+    },
+    {
+      "id": "2",
+      "title": "Product2",
+      "description": "description2",
+      "price": 100
+    },
+    {
+      "id": "3",
+      "title": "Product3",
+      "description": "description3",
+      "price": 300
+    },
+    {
+      "id": "4",
+      "title": "Product4",
+      "description": "description4",
+      "price": 400
+    },
+    {
+      "id": "5",
+      "title": "Product5",
+      "description": "description5",
+      "price": 105
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "product": "1",
+      "user": "1",
+      "price": 100
+    },
+    {
+      "id": "2",
+      "product": "1",
+      "user": "2",
+      "price": 100
+    },
+    {
+      "id": "3",
+      "product": "1",
+      "user": "1",
+      "price": 100
+    },
+    {
+      "id": "4",
+      "product": "2",
+      "user": "1",
+      "price": 100
+    }
+  ],
+  "order": [
+    {
+      "id": "1",
+      "products": [
+        "1",
+        "2"
+      ],
+      "user": "1",
+      "total_price": 200
+    },
+    {
+      "id": "fd1b",
+      "products": [
+        "2",
+        "3"
+      ],
+      "user": "43ae",
+      "total_price": 400
+    },
+    {
+      "id": "c5dc",
+      "products": [
+        "2",
+        "3"
+      ],
+      "user": "43ae",
+      "total_price": 400
+    },
+    {
+      "id": "5f6e",
+      "products": [
+        "2"
+      ],
+      "user": "43ae",
+      "total_price": 100
+    },
+    {
+      "id": "55dd",
+      "products": [],
+      "user": "43ae",
+      "total_price": 0
+    },
+    {
+      "id": "eb29",
+      "products": [],
+      "user": "43ae",
+      "total_price": 0
+    },
+    {
+      "id": "fdc8",
+      "products": [],
+      "user": "43ae",
+      "total_price": 0
+    },
+    {
+      "id": "dcae",
+      "products": [],
+      "user": "43ae",
+      "total_price": 0
+    },
+    {
+      "id": "244e",
+      "products": [],
+      "user": "43ae",
+      "total_price": 0
+    },
+    {
+      "id": "9577",
+      "products": [],
+      "user": "43ae",
+      "total_price": 0
+    },
+    {
+      "id": "325c",
+      "products": [],
+      "user": "43ae",
+      "total_price": 0
+    },
+    {
+      "id": "564a",
+      "products": [
+        "1",
+        "2"
+      ],
+      "user": "43ae",
+      "total_price": 200
+    },
+    {
+      "id": "e49e",
+      "products": [
+        "1"
+      ],
+      "user": "43ae",
+      "total_price": 100
+    },
+    {
+      "id": "5d1f",
+      "products": [
+        "1"
+      ],
+      "user": "43ae",
+      "total_price": 100
+    }
+  ]
+}
